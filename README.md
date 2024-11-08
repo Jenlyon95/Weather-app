@@ -1,6 +1,6 @@
 # weather-app
 
-This template should help get you started developing with Vue 3 in Vite.
+Easy project with Vue3, Tailwind and extern API for creating cards with the weather.
 
 ## Recommended IDE Setup
 
